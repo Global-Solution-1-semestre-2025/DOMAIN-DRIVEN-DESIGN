@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/agro.iml" filepath="$PROJECT_DIR$/.idea/agro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agro/agro.iml" filepath="$PROJECT_DIR$/agro/agro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
     </modules>
   </component>
 </project>
