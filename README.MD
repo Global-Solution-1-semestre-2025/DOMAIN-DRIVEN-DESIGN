@@ -112,4 +112,7 @@ Com base nesse relatório, os dados registrados servirão como medidas preventiv
 - Uso de JPA/Hibernate para persistência de dados
 - Validações de dados nas entidades
 
+### Video Youtube:
+https://youtu.be/U38kOI2wpUQ
+
 
